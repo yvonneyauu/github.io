@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yvonne Yu Yan Yau"
-description              : &description "personal description"
+description              : &description "Post-doc at Stockholm University"
 url                      : https://yvonneyauu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yvonneyauu.github.io"
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4692-751X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
