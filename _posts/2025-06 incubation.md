@@ -13,8 +13,10 @@ Location: Äsko marine station
 Headings are cool
 ======
 
-You can have many headings
+
+
+![Setting up incubation chamber](/images/blogging/IMG_4275.HEIC)
 ======
 
-Aren't headings cool?
+
 ------
