@@ -1,11 +1,11 @@
 ---
 title: "Methane emissions in seagrass meadows as a small offset to carbon sequestration"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Seagrass meadows are effective carbon sinks due to high primary production and sequestration in sediments. However, methane (CH4) emissions can partially counteract their carbon sink capacity. Here, we measured diffusive sediment-water and sea-air CO2 and CH4 fluxes in a coastal embayment dominated by Posidonia oceanica in the Mediterranean Sea. High-resolution timeseries observations revealed large spatial and temporal variability in CH4 concentrations (2–36 nM). Lower sea-air CH4 emissions were observed in an area with dense seagrass meadows compared to patchy seagrass. A 6%−40% decrease of CH4 concentration in the surface water around noon indicates that photosynthesis likely limits CH4 fluxes. Sediments were the major CH4 source as implied from radon (a natural porewater tracer) observations and evidence for methanogenesis in deeper sediments. CH4 sediment-water fluxes (0.1 ± 0.1–0.4 ± 0.1 μmol m−2 d−1) were higher than average sea-air CH4 emissions (0.12 ± 0.10 μmol m−2 d−1), suggesting that dilution and CH4 oxidation in the water column could reduce net CH4 fluxes into the atmosphere. Overall, relatively low sea-air CH4 fluxes likely represent the net emissions from subtidal seagrass habitat not influenced by allochthonous CH4 sources. The local CH4 emissions in P. oceanica can offset less than 1% of the carbon burial in sediments (142 ± 69 g CO2eq m−2 yr−1). Combining our results with earlier observations in other seagrass meadows worldwide reveals that global CH4 emissions only offset a small fraction (<2%) of carbon sequestration in sediments from seagrass meadows.'
 date: 2023-02-17
 venue: 'Journal of Geophysical Research – Biogeosciences'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007295'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007295'
+citation: 'Yau, Y.Y.Y., Reithmaier, G., Majtenyi-Hill, C., Serrano, O., Piñeiro-Juncal, N., Dahl, M., Mateo, M.A., Bonaglia, S. and Santos, I.R. (2023). Methane emissions in seagrass meadows as a small offset to carbon sequestration.  Journal of Geophysical Research – Biogeosciences. 128(6). '
 ---
