@@ -22,7 +22,7 @@ repository               : "yvonneyauu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/bio.JPG
+  avatar           : "/images/bio.JPG"
   name             : "Yvonne Yu Yan Yau"
   pronouns         : # example: "she/her"  
   bio              : "Post-doc Researcher"
