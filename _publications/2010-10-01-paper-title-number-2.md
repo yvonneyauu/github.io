@@ -1,4 +1,4 @@
------
+---
 title: "Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters"
 collection: publications
 category: manuscripts
@@ -9,4 +9,4 @@ venue: "Limnology and Oceanography"
 slidesurl: "http://academicpages.github.io/files/slides2.pdf"
 paperurl: "https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12639"
 citation: "Yau, Y.Y.Y., Cabral, A., Reithmaier, G., Cotovicz, L. C., Barreira, J., Abril, G., Morana, C., Borges, A. V., Machado, W., Godoy, J. M., Bonaglia, S., & Santos, I. R. (2024). Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters. Limnology and Oceanography, 69(9)."
-----
+---
