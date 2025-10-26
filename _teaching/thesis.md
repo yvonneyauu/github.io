@@ -6,13 +6,3 @@ permalink: /teaching/2015-spring-teaching-1
 venue: "University of Gothenburg, Department of Marine Sciences"
 date: "2023-09-01"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
