@@ -5,6 +5,6 @@ permalink: /posts/2025/10/blog-post-4/
 
 ---
 
-![Doctoral degree conferment ceremony](/images/baltic-sample2.png)
+![Doctoral degree conferment ceremony](/images/blogging/IMG_8062.jpg)
 
 
