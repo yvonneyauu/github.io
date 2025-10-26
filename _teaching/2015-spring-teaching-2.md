@@ -4,7 +4,7 @@ collection: teaching
 type: "master thesis"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Gothenburg, Department of Marine Sciences"
-date: "2023"
+date: "2023-09-01"
 ---
 
 
