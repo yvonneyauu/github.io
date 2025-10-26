@@ -16,6 +16,8 @@ Headings are cool
 
 
 ![Setting up incubation chamber](/images/blogging/IMG_4275.HEIC)
+![Setting up incubation chamber](/images/blogging/IMG_4351.HEIC)
+![Setting up incubation chamber](/images/blogging/IMG_4357.HEIC)
 ======
 
 
