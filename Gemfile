@@ -1,15 +1,11 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-  gem 'github-pages'
-  gem 'jekyll', '~> 4.2.0'
-end
+# Use GitHub Pages gem, which includes Jekyll and approved plugins
+gem "github-pages", group: :jekyll_plugins
+
+# Add webrick for local `jekyll serve` (needed for Ruby 3+)
+gem "webrick", "~> 1.8"
+
 
 
 
