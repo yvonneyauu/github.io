@@ -12,3 +12,4 @@ A PhD, or Doctor of Philosophy, is more than just the accumulation of knowledge 
 ![Doctoral degree conferment ceremony](/images/blogging/IMG_8062.jpg)
 ![Doctoral degree conferment ceremony](/images/blogging/IMG_8053.HEIC)
 
+------
