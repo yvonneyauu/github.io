@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Yvonne"
+title: "Hi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,17 +9,10 @@ redirect_from:
 
 **Interests**
 
-I am interested in the biogeochemical cycles of marine ecosystems.
+I am intetested in the biogeochemical cycling of carbon and nutrients in marine ecosystems. My current work focuses on understanding the fate of greenhouse gas emissions particularly methane, from sediments to the atmosphere. My research aims to elucidate the processes controlling greenhouse gas emissions and their implications for climate change.
 
-
-Getting started
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
+"I would rather have questions that can't be answered, than answers that can't be questioned." 
+                                                                              Richard Feynman 
 ------
 
 
